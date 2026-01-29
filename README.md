@@ -27,7 +27,7 @@ The app is themed around **space**, featuring a galaxy background and a purple p
 
 Here is a short GIF demonstrating the app functionality:
 
-![Demo](Lab1-GIF.gif)
+![Demo](Lab1GIF.gif)
 
 ---
 
